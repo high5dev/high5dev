@@ -1,5 +1,5 @@
 <h3 align='center'>
-  Blockchain & FullStack Engineer 
+  Blockchain & FullStack Web Engineer 
 </h3>
 
 <p>
@@ -16,8 +16,8 @@
 </p>
 
 <br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, Python, PHP, NodeJS
-<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, jQuery, ReactJS, Redux, React-Native, Material-UI, VueJS, Vuex, Angular, Django, Laravel, ExpressJS, Wordpress, Strapi
+<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, React-Native, VueJS, Vuex, Angular, Alpine.js, ExpressJS, Laravel, Wordpress, Strapi
 <br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak
-<br><h2>Applications</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
+<br><h2>Applications</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Jira, Docker
 <br><h2>Blockchain</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
 <p>
