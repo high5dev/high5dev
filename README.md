@@ -1,10 +1,6 @@
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<h4 align='center'>
+<h3 align='center'>
   Blockchain & FullStack Engineer 
-</h4>
+</h3>
 
 <p>
 
@@ -19,11 +15,9 @@
   I am also not new to the remote freelancing scene, so I am extremely flexible with any working hours.
 </p>
 
-<br><h2>Languages</h2>: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, Python, PHP, NodeJS
-<br><h2>Libraries/Frameworks/CMS</h2>: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, jQuery, ReactJS, Redux, React-Native, Material-UI, VueJS, Vuex, Angular, Django, Laravel, ExpressJS, Wordpress, Strapi
-<br><h2>Database</h2>: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak
-<br><h2>Applications</h2>: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
-<br><h2>Blockchain</h2>: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
+<br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, Python, PHP, NodeJS
+<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, jQuery, ReactJS, Redux, React-Native, Material-UI, VueJS, Vuex, Angular, Django, Laravel, ExpressJS, Wordpress, Strapi
+<br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak
+<br><h2>Applications</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
+<br><h2>Blockchain</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
 <p>
-
-<br>
