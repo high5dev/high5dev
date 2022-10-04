@@ -4,7 +4,7 @@
 
 <p>
 
-  I have 12 years of experience worked with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
+  I have 11 years of experience worked with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
   
   I have extensive knowledge of front-end JavaScript as well as significant experience with popular frameworks and libraries like React/Redux, Angular, and Vue. 
   
@@ -16,8 +16,8 @@
 </p>
 
 <br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, Python, PHP, NodeJS
-<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, React-Native, VueJS, Vuex, Angular, Alpine.js, ExpressJS, Laravel, Wordpress, Strapi
-<br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak
+<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, Next.js, React-Native, VueJS, Vuex,Nuxt.js, Angular, Alpine.js, ExpressJS, Nest.js, Laravel, CodeIgniter, Wordpress, Strapi, Ruby on Rails
+<br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak, Redis
 <br><h2>Applications</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Jira, Docker
 <br><h2>Blockchain</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
 <p>
