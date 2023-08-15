@@ -16,10 +16,10 @@
 </p>
 
 <br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, Python, PHP, NodeJS, Ruby
-<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, Next.js, React-Native, VueJS, Vuex,Nuxt.js, Angular, Alpine.js, ExpressJS, Nest.js, Laravel, CodeIgniter, Wordpress, Strapi, Ruby on Rails
+<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, Next.js, React-Native, VueJS, Vuex, Nuxt.js, Angular, Alpine.js, ExpressJS, Nest.js, Laravel, CodeIgniter, Wordpress, Strapi, Ruby on Rails, Django
 <br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB, CouchDB, KeyCloak, Redis
-<br><h2>Applications</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code, GitHub, Git BASH, Figma, Jira, Docker
-<br><h2>Blockchain</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
+<br><h2>Blockchain</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etherium, Solidity, Web3.js, Smart Contract, DApp, NFT, Blockchain investment
+<br><h2>Devops</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP, GitHub, GitLab, AWS, DigitalOcean, Docker, Grafana
 <p>
 
 <p>
