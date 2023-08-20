@@ -4,7 +4,7 @@
 
 <p>
 
-  I have 11 years of experience worked with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
+  I have 10+ years of experience worked with a variety of companies including small startups and big communities, which made me intimately familiar with all the stages of the web lifecycle from the initial architecture to final deployment.
   
   I have extensive knowledge of front-end JavaScript as well as significant experience with popular frameworks and libraries like React/Redux, Angular, and Vue. 
   
