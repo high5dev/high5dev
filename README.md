@@ -1,5 +1,5 @@
 <h3 align='center'>
-  Blockchain & FullStack Web Engineer 
+  FullStack Web Engineer 
 </h3>
 
 <p align="center"><img src="https://github.com/high5dev/high5dev/assets/96392903/72e1e883-663f-46bb-a097-d3cf3acf5490" alt="corasphinx" /></p>
