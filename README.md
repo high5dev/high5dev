@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dinh Cong Thang</h1>
-<h3 align="center">A passionate Full-Stack Developer with extensive experience</h3>
+<h3 align="center">A passionate Full-Stack Developer from Vietnam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=high5dev" alt="high5dev" /></a> </p>
 
-- 🔭 I’m currently working on **tattoo-hub**
+- 🔭 I’m currently working on [tattoo-hub](https://tattoo-artist-khaki.vercel.app/)
 
-- 🌱 I’m currently learning **React Three Fiber, Ruby on Rails**
+- 🌱 I’m currently learning **React Three Fiber, Ruby on Rails, Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/high5dev](https://github.com/high5dev)
 
-- 💬 Ask me about **react, angular, vue, django, laravel**
+- 💬 Ask me about **React, Angular, Vue, Django, Laravel, SQL**
 
 - 📫 How to reach me **congthangdinh0@outlook.com**
 
