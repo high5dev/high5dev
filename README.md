@@ -33,6 +33,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=high5dev&show_icons=true&locale=en&layout=compact" alt="high5dev" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=high5dev&show_icons=true&locale=en" alt="high5dev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=high5dev&show_icons=true&theme=gruvbox" alt="high5dev" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=high5dev&" alt="high5dev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=high5dev&theme=humoris&card_width=400&card_height=170" alt="high5dev" /></p>
