@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinh Cong Thang</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=high5dev&row=2&column=3" alt="high5dev" /></a> </p>
@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **React, Angular, Vue, Django, Laravel, SQL**
 
-- 📫 How to reach me **congthangdinh0@outlook.com**
-
-- 📄 Know about my experiences [https://dinhthang.vercel.app/](https://dinhthang.vercel.app/)
+- 📫 How to reach me **high5dev621@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
