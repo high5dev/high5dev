@@ -22,7 +22,6 @@
 <a href="https://dev.to/high5dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="high5dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/oneshot621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oneshot621" height="30" width="40" /></a>
 <a href="https://codesandbox.com/high5dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="high5dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/congthangdinh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="congthangdinh0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/high5dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="high5dev" height="30" width="40" /></a>
 </p>
 
