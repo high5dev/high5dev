@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h1 align="center">Hello, Let's make something outstanding!</h1>
+<h3 align="center">Chance favors the prepared mind</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=high5dev&row=2&column=3" alt="high5dev" /></a> </p>
 
